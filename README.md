@@ -1,4 +1,3 @@
 ## Mikhail Smirnov
 
-- making mobile application on react-native
-- trying to create some awsome in @altergo-tech
+> I'm making mobile applications on react-native
