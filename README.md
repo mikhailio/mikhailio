@@ -1,3 +1,4 @@
-## Mikhail Smirnov
+# Mikhail Smirnov
 
-> I'm making mobile applications on react-native
+- making mobile applications on react-native
+- creating native modules for react-native
