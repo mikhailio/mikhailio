@@ -1,4 +1,4 @@
-### Hi there 👋
+## Mikhail Smirnov
 
-- 🔭 I’m currently working on react-native applications
-- 🌱 I’m currently learning android development
+- making mobile application on react-native
+- trying to create some awsome in @altergo-tech
